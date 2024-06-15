@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tiveprousest.github.io/sitemap
+Sitemap: https://tiveprousest.github.io/app/sitemap
+Sitemap: https://tiveprousest.github.io/assets/sitemap
+Sitemap: https://tiveprousest.github.io/css/sitemap
+Sitemap: https://tiveprousest.github.io/includes/sitemap
+Sitemap: https://tiveprousest.github.io/item/sitemap
+Sitemap: https://tiveprousest.github.io/src/sitemap
